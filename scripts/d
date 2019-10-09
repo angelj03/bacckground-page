@@ -1,0 +1,11 @@
+document.getElementsByTagName('tagName');
+document.getElementsByClassName('className');
+document.getElementById('id');
+//[0] from arrays
+
+document.querySelector('');
+document.querySelectorAll('');
+document.getAttribute('');
+document.setAttribute('');
+
+document.querySelector('').getAttribute("");
